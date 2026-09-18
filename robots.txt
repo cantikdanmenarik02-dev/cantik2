@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cantikdanmenarik02-dev.github.io/cantik2/sitemap.xml
